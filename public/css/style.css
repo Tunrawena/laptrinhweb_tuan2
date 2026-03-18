@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+    background: white;
+    border: 1px solid #ccc;
+}
+
+.header {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.menu {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.menu a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.box {
+    width: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #999;
+}
+
+.box h3 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 6px;
+    margin: 5px 0;
+}
+
+button {
+    background: #0d6efd;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+.pagination {
+    text-align: center;
+    margin: 10px;
+}
